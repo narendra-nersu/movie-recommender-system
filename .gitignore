@@ -1,0 +1,7 @@
+# Model files
+*.pkl
+*.pickle
+
+# Large data / artifacts
+models/
+artifacts/
